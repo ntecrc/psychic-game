@@ -1,0 +1,1 @@
+/*this will be the javascript of the psychic game */
